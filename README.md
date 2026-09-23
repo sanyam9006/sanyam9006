@@ -40,4 +40,4 @@ I specialize in building production-ready AI systems, ranging from predictive ML
 ![Sanyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanyam9006&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanyam9006&layout=compact&theme=radical)
 
-📫 **Let's connect:** [https://www.linkedin.com/in/sanyamjain8905/) | [Email](mailto:sanyamjain8905@gmail.com)
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/sanyamjain8905/) | [Email](mailto:sanyamjain8905@gmail.com)
