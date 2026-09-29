@@ -31,7 +31,6 @@ I specialize in building production-ready AI systems, ranging from predictive ML
 | Project | Tech Stack | Highlight |
 | :--- | :--- | :--- |
 | **[Nexus AI Research Hub](https://github.com/sanyam9006/NexusAI)** | Python, RAG, ChromaDB, Llama 3.3 | High-precision hybrid search and reranking engine for automated research synthesis and document QA. |
-
 | **[Customer Churn Explainability](https://github.com/sanyam9006/customer-churn-prediction-explainability)** | Python, XGBoost, SHAP, Streamlit | End-to-End pipeline with Feature Drift surveillance and SHAP explainability. |
 | **[AI Career Counselling](https://github.com/sanyam9006/career-project)** | NLP, Python, JS | Analyzes unstructured essays to provide personalized career paths in <1s. |
 | **[Energy Consumption Analysis](https://github.com/sanyam9006/Energy-Consumption-Analysis)** | R, Statistical Analysis | Predictive insights for global energy research and policy-making. |
