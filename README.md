@@ -1,32 +1,32 @@
 
-# Hi, I'm Sanyam Jain 👋
+# Hi, I'm Sanyam Jain 
 ### Data Scientist | AI Engineer | GenAI & Agentic AI Specialist
 
 I specialize in building production-ready AI systems, ranging from predictive ML pipelines to autonomous Agentic workflows. My focus is on bridging the gap between raw data and actionable intelligence using LLMs, NLP, and Deep Learning.
 
 ---
 
-## 🚀 Specialized Technical Stack
+##  Specialized Technical Stack
 
-**🤖 Generative AI & Agentic AI**
+**Generative AI & Agentic AI**
 - **LLMs:** GPT-4, Claude 3.5, Llama 3, Mistral
 - **Frameworks:** LangChain, CrewAI, AutoGen, LlamaIndex
 - **Techniques:** RAG (Retrieval Augmented Generation), Prompt Engineering, Agentic Workflows, Fine-tuning
 
-**📊 Data Science & Machine Learning**
+**Data Science & Machine Learning**
 - **Languages:** Python (Expert), R, SQL
 - **ML/DL:** Scikit-Learn, XGBoost, PyTorch, TensorFlow, Keras
 - **NLP:** HuggingFace, Spacy, NLTK, BERT, Transformers
 - **Explainability:** SHAP, LIME (Production-grade model interpretability)
 
-**⚙️ MLOps & Tooling**
+**MLOps & Tooling**
 - **Deployment:** Streamlit, FastAPI, Docker, Flask
 - **Data Ops:** Pandas, NumPy, SQLAlchemy, SQLite
 - **Testing:** PyTest (for ML pipelines)
 
 ---
 
-## 🌟 Featured AI Projects
+## Featured AI Projects
 
 | Project | Tech Stack | Highlight |
 | :--- | :--- | :--- |
